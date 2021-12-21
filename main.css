@@ -160,8 +160,7 @@ body{
     color: #6c7279;
 }
 
-/* Team
-===================*/
+
 .team {
     display: flex;
     flex-wrap: wrap;
@@ -216,13 +215,13 @@ body{
     background-color: #000;
 }
 
-.copyright__text {
+.footer__text {
     text-align: center;
     font-size: 14px;
     line-height: 1.5;
     color: #6c7279;
 }
 
-.copyright__text span {
+.footer__text span {
     color: #fff;
 }
