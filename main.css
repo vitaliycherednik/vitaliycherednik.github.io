@@ -134,7 +134,7 @@ body{
 
 .trophies__item {
     width: 33.33333%;
-    padding: 0 40px;
+    padding: 0 90px;
     margin: 25px 0;
 
     text-align: center;
@@ -142,6 +142,9 @@ body{
 
 .trophies__icon {
     margin-bottom: 25px;
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 .trophies__title {
@@ -153,7 +156,7 @@ body{
 }
 
 .trophies__text {
-    margin: 0 0 30px;
+    margin: 0 0 10px;
     font-size: 64px;
     line-height: 1.5;
     color: #6c7279;
